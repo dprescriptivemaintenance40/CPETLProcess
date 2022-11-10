@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-5GL6DEM.DPM"
+  DTS:DTSID="{7A688241-DA8F-472D-ABDA-0FE1F23F1B55}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-5GL6DEM;Initial Catalog=DPM;Integrated Security=True;Application Name=SSIS-CPETL PROCESS-{7A688241-DA8F-472D-ABDA-0FE1F23F1B55}DESKTOP-5GL6DEM.DPM;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

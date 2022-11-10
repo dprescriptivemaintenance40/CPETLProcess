@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-5GL6DEM.DPM1"
+  DTS:DTSID="{4A5C6B6E-94BB-4E35-B2A5-41FBF30F26F3}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-5GL6DEM;Initial Catalog=DPM;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-CPETL PROCESS-{4A5C6B6E-94BB-4E35-B2A5-41FBF30F26F3}DESKTOP-5GL6DEM.DPM1;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
